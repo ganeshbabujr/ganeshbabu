@@ -16,7 +16,7 @@ function Projects() {
             <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
             <b>Role: </b> Software Engineer<br/>
             <b>Duration: </b> Jan 2021 to Present<br/>
-            <b>Language used:</b>SQL, PL/SQL, Unix, ETL<b>
+            <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
             <br/>Details: </b>
             The project aimed to streamline and optimize PNC Bank’s core financial workflows—Current Account (CA), Cash & Banking (CB), Accounts Payable (AP), and Accounts Receivable (AR)—by enhancing back-end database functionality.<br />
 
@@ -27,7 +27,7 @@ function Projects() {
             <b>Project :</b> Retail Management System - Woolworths<br />
             <b>Role: </b> PL/SQL Developer<br/>
             <b>Duration: </b> Nov 2020 to Dec 2021<br/>
-            <b>Language used:</b>SQL, PL/SQL, Unix, ETL<b>
+            <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
             <br/>Details: </b>
              As a PL/SQL Developer, developed and maintained a web application called "Stuffs" used by Woolworths Group Limited, a retail company based in Sydney, Australia. Managed inventory of all products, including purchase orders, sales orders, and product location tracking. 
              <br />
@@ -41,7 +41,7 @@ function Projects() {
             <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
             <b>Role: </b> Software Engineer<br/>
             <b>Duration: </b> Jan 2021 to Present<br/>
-            <b>Language used:</b>SQL, PL/SQL, Unix, ETL<b>
+            <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
             <br/>Details: </b>
             The project aimed to streamline and optimize PNC Bank’s core financial workflows—Current Account (CA), Cash & Banking (CB), Accounts Payable (AP), and Accounts Receivable (AR)—by enhancing back-end database functionality.<br />
 
