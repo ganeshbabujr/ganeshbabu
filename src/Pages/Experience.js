@@ -64,10 +64,10 @@ function Experience() {
             <ProgressBar percent="80%" title='.Net Core' />
             <ProgressBar percent="80%" title='MS SQL' /> */}
 
-            <BodyCard header={'Frontend'} skills={['React', 'Javascript', 'Angular', 'Typescript', 'HTML/CSS']}/>
-            <BodyCard header={'Backend'} skills={['.Net core','.Net Framework', 'C#', 'MSSQL', 'EF Core']}/>
-            <BodyCard header={'DevOps'} skills={['AWS', 'Azure', 'Lamda', 'CI/CD', 'Git']}/>
-            <BodyCard header={'Tools'} skills={['Visual Studio', 'VS Code', 'Postman', 'SVN', 'SSMS']}/>
+            <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix Shell Scripts', 'Python','HTML5/CSS']}/>
+            <BodyCard header={'Database'} skills={['Oracle 11g','Oracle 12c']}/>
+            <BodyCard header={'Job Scheduling'} skills={['Autosys,', 'Control-M']}/>
+            <BodyCard header={'Tool'} skills={['SQL Developer', 'Toad','SQL Plus', 'SVN', 'Git', 'Jira']}/>
 
 
 
