@@ -41,7 +41,7 @@ function HomeDetails() {
             <div className='frame f1' style={{ width: '100%', height: '10vh', marginTop: '5vh', padding: '10px' }}>
                 Experience: {experience}<br />
                 Skills: SQL, PL/SQL, Unix, ETL,Azure, AWS,<br />      
-                <br />JIRA, SVN, GIT, HTML5, CSS,
+                JIRA, SVN, GIT, HTML5, CSS,
                 <br />
             </div>
             <div className='df' style={{ width: '100%', marginTop: '5vh' }}>
