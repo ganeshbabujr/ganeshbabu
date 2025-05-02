@@ -9,36 +9,16 @@ function Projects() {
       <div className='ofc-project'>
         <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>Projects</div>
 
-        <Card pno='05'
-          preview="In this project, data for escrow officers has been maintained."
-          details={<div><b>Language used:</b>  REACT JS, .NET, MSSQL
-            <br /><b>Org Name:</b> Fidelity National Financial <br />
-            <b>Role: </b>My role is to lead a team of 5 developers and testers. I do coding, planning, code review and i am the spoc person in this project<br />
-            <b>Details: </b> We developed a application where all data related to a property is maintained, data comes in excel format that user can export in databaase from ui and provide options for role assignment and tacking of those records<br />
-
-          </div>} />
-        <Card pno='04'
-          preview="This is Unilever Project, where we have survey data and we are showing users those data in
-        different aspects as per requirement."
-          details={<div>
-            <b>Language used:</b> JAVASCRIPT, JQUERY .NET CORE 6, MSSQL, PYTHON
-            <br /><b>Org Name:</b> Kantar Analytics Practice <br />
-            <b>Role: </b>My role was to create ui charts to represent data to user ,used highchart to show 10
-            different type of chart.<br />
-            <b>Details:</b> In this project, where we have survey data and we are showing users those data in
-            different aspects as per requirement.<br />
-          </div>}
-        />
+        
         <Card pno='03'
           preview="This is Unilever Project, where they can optimize the future expenses in different ways."
           details={<div>
-            <b>Language used:</b> REACT JS, .NET, MSSQL, PYTHON
-            <br /><b>Org Name:</b> Kantar Analytics Practice
-            <br />
-            <b>Role: </b>My role was to export dynamic data to excel and develop form based login and merge with
-            sso login to avoid testing issues.<br />
-            <b>Details: </b>
-            In this project, where they can optimize the future expenses in different ways.<br />
+            <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank
+            <br /><b>Role: </b> Software Engineer<br/>
+            <b>Duration: </b> Jan 2021 to Present<br/>
+            <b>Language used:</b>SQL, PL/SQL, Unix, ETL<b>
+            Details: </b>
+            The project aimed to streamline and optimize PNC Bank’s core financial workflows—Current Account (CA), Cash & Banking (CB), Accounts Payable (AP), and Accounts Receivable (AR)—by enhancing back-end database functionality.<br />
 
           </div>} />
         <Card pno='02'
