@@ -13,41 +13,38 @@ function Projects() {
         <Card pno='03'
           preview="This is Unilever Project, where they can optimize the future expenses in different ways."
           details={<div>
-            <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank
-            <br /><b>Role: </b> Software Engineer<br/>
+            <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
+            <b>Role: </b> Software Engineer<br/>
             <b>Duration: </b> Jan 2021 to Present<br/>
             <b>Language used:</b>SQL, PL/SQL, Unix, ETL<b>
-            Details: </b>
+            <br/>Details: </b>
             The project aimed to streamline and optimize PNC Bank’s core financial workflows—Current Account (CA), Cash & Banking (CB), Accounts Payable (AP), and Accounts Receivable (AR)—by enhancing back-end database functionality.<br />
 
           </div>} />
-        <Card pno='02'
-          preview="This is Unilever Project, where they can simulate, compare, forecast the investment and
-        market status of all their brands."
+         <Card pno='02'
+          preview="This is Unilever Project, where they can optimize the future expenses in different ways."
           details={<div>
-            <b>Language used:</b> Angular, .NET CORE, MSSQL, PYTHON
-            <br /><b>Org Name:</b> Kantar Analytics Practice
-            <br />
-            <b>Role: </b>My role was to build a simulation page ui where user can simulate between different
-            brands and also implemented sso login using Msal react library.<br />
-            <b>Details: </b>
-            In this project, where they can simulate, compare, forecast the investment and
-            market status of all their brands.<br />
+            <b>Project :</b> Retail Management System - Woolworths<br />
+            <b>Role: </b> PL/SQL Developer<br/>
+            <b>Duration: </b> Nov 2020 to Dec 2021<br/>
+            <b>Language used:</b>SQL, PL/SQL, Unix, ETL<b>
+            <br/>Details: </b>
+             As a PL/SQL Developer, developed and maintained a web application called "Stuffs" used by Woolworths Group Limited, a retail company based in Sydney, Australia. Managed inventory of all products, including purchase orders, sales orders, and product location tracking. 
+             <br />
+
 
           </div>} />
 
-        <Card pno='01'
-          preview="In this project, we develop a platform where all the internal project details/status are maintained."
+         <Card pno='01'
+          preview="This is Unilever Project, where they can optimize the future expenses in different ways."
           details={<div>
-            <b>Language used:</b> REACT JS, .NET, MSSQL
-            <br /><b>Org Name:</b> Kantar Analytics Practice
-            <br />
-            <b>Role: </b>My role was to develop user management with three types of user with different
-            permissions and excel export of all modules with the use of EPPlus library.
-            <br />
-            <b>Details: </b>
-            In this project, we develop a platform where all the internal project details/status are
-            maintained.<br />
+            <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
+            <b>Role: </b> Software Engineer<br/>
+            <b>Duration: </b> Jan 2021 to Present<br/>
+            <b>Language used:</b>SQL, PL/SQL, Unix, ETL<b>
+            <br/>Details: </b>
+            The project aimed to streamline and optimize PNC Bank’s core financial workflows—Current Account (CA), Cash & Banking (CB), Accounts Payable (AP), and Accounts Receivable (AR)—by enhancing back-end database functionality.<br />
+
 
           </div>} />
 
