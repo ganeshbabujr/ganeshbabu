@@ -1,27 +1,27 @@
-export const currentCompanyName = 'Fidelity National Financial India';
-export const currentRole = 'Software Engineer';
-export const currentExperience = '4.1 Years';
-export const currentMobileNo = '+918999847096';
-export const currentEmail = 'kantshashi.sk8@gmail.com';
-export const currentLinkedinUrl = 'https://www.linkedin.com/in/shashi-kant-7a3706184/';
-export const currentGithubUrl = 'https://github.com/shashi-kant95';
-export const currentzcompanyStartDate = 'February 2023';
-export const currentLocation = 'Bangalore';
+export const currentCompanyName = 'Swatantra Systems Pvt Ltd';
+export const currentRole = 'PL/SQL Developer';
+export const currentExperience = '4.6 Years';
+export const currentMobileNo = '+918667799658';
+export const currentEmail = 'ganeshbabujaisankar5@gmail.com';
+export const currentLinkedinUrl = 'https://www.linkedin.com/in/ganeshbabujr/';
+export const currentGithubUrl = 'https://github.com/ganeshbabujr';
+export const currentzcompanyStartDate = 'October 2020';
+export const currentLocation = 'Chennai';
 export const oldCompanyHistory = [
     {
-        name: 'Kantar Analytics Practice',
-        designation: 'Software Developer',
-        startDate: 'November 2019',
-        endDate: 'February 2023',
-        location: 'Bangalore',
+        name: 'N2S Technologies Pvt Ltd',
+        designation: 'WordPress Developer',
+        startDate: 'July 2019',
+        endDate: 'September 2020',
+        location: 'Chennai',
         isCurrentCompany : false,
         id : 1
     },
     {
-        name: 'Fidelity National Financial India',
-        designation: 'Software Engineer',
-        startDate: 'February 2023',
-        location: 'Bangalore',
+        name: 'Swatantra Systems Pvt Ltd',
+        designation: 'PL/SQL Developer',
+        startDate: 'October 2020',
+        location: 'Hyderabad',
         isCurrentCompany : true,
         id : 2
     }
@@ -29,25 +29,25 @@ export const oldCompanyHistory = [
 
 export const Languages = [
     {
-        name: 'DotNet'
+        name: 'SQL'
     },
     {
-        name: 'Reactjs'
+        name: 'PL/SQL'
     },
     {
-        name:'Javascript'
+        name:'Unix'
     },
     {
-        name:'Sql'
+        name:'ETL'
     },
     {
-        name:'Angular'
+        name:'Python'
     },
     {
-        name:'HTML'
+        name:'Azure'
     },
     {
-        name:'CSS'
+        name:'PHP'
     }
 ]
 
