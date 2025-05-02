@@ -1,6 +1,6 @@
 import React from 'react'
 
 export default {
-    USER_ID: `G0LxAE0JM0WkyxdAKP`, //userID
-    TEMPLATE_ID: `template_kfphfgcl`,         //templateID
+    USER_ID: `tpUQcWot5ckiGn5uT`, //userID
+    TEMPLATE_ID: `tpUQcWot5ckiGn5uT`,         //templateID
     }
