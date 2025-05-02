@@ -69,10 +69,10 @@ function Projects() {
             <b>Language Used: </b> Javascript, Bootstrap, Firebase<br /><br />
 
 
-          </div>} />*/}
+          </div>} />
       
 
-      </div> 
+      </div> */
     </div>
   )
 }
