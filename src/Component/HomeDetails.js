@@ -46,7 +46,7 @@ function HomeDetails() {
             </div>
             <div className='df' style={{ width: '100%', marginTop: '5vh' }}>
                 <div className='neu-btn cv-download' style={{ width: '10vw', marginBottom: '3vh' }}>
-                    <Link to="/Shashi_Kant_Resume.pdf" target="_blank" download>Download CV</Link>
+                    <Link to="/Ganeshbabu_Resume.pdf" target="_blank" download>Download CV</Link>
                 </div>
             </div>
 
