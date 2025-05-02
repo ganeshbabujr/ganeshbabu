@@ -38,12 +38,13 @@ function Projects() {
          <Card pno='01'
           preview="This is Unilever Project, where they can optimize the future expenses in different ways."
           details={<div>
-            <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
-            <b>Role: </b> Software Engineer<br/>
-            <b>Duration: </b> Jan 2021 to Present<br/>
-            <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
+            <b>Project :</b> B2B Wholesale Marketplace with Vendor Managed Inventory (VMI)<br />
+            <b>Role: </b> Wordpress Engineer<br/>
+            <b>Duration: </b> Jul 2019 to Sep 2020<br/>
+            <b>Language used:</b> PHP, MYSQL, CMS<b>
             <br/>Details: </b>
-            The project aimed to streamline and optimize PNC Bank’s core financial workflows—Current Account (CA), Cash & Banking (CB), Accounts Payable (AP), and Accounts Receivable (AR)—by enhancing back-end database functionality.<br />
+            Development of robust e-commerce platforms using WordPress and WooCommerce, covering product catalog management, payment gateway integration, shipping solutions, and order processing. integrating WordPress websites with Zoho CRM system, via APIs and custom plugins, to automate data synchronization and streamline workflows.
+            <br />
 
 
           </div>} />
