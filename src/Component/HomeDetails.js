@@ -35,15 +35,15 @@ function HomeDetails() {
     return (
         <div style={{ display: 'flex', flexDirection: 'column' }} >
             {/* <div className='home-boy-img'></div> */}
-            <div className='f4 df text-shadow'>Ganesh Babu J R</div>
+            <div className='f4 df text-shadow'>GANESH BABU J R</div>
             <div className='f1 df'>And I Am A PL/SQL Developer.</div>
             <CurrentCompany />
             <div className='frame f1' style={{ width: '100%', height: '10vh', marginTop: '5vh', padding: '10px' }}>
                 Experience: {experience}<br />
-                Skills: NET CORE, C#, REACT JS, JAVASCRIPT, <br />
+                Skills: SQL, PL/SQL, Unix, ETL<br />
                 Azure, AWS
-                <br />ANGULAR, JQUERY, HTML, CSS,
-                SQL, JIRA, SVN, GIT<br />
+                <br />JIRA, SVN, GIT, HTML5, CSS,
+                <br />
             </div>
             <div className='df' style={{ width: '100%', marginTop: '5vh' }}>
                 <div className='neu-btn cv-download' style={{ width: '10vw', marginBottom: '3vh' }}>
