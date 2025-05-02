@@ -23,7 +23,7 @@ function Education() {
                     <h4 className="vertical-timeline-element-subtitle">Islamiah Higher Secondary School, Vellore</h4>
                     <p>
                        Board: SSLC, Tamil Nadu<br/>
-                       CGPA: 6.9/10.00
+                       Percentage: 69%
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
