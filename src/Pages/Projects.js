@@ -58,7 +58,7 @@ function Projects() {
 
       </div>
 
-       <div className='per-project'>
+{/*  <div className='per-project'>
         <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>Personal Projects</div>
 
         <Card pno='01' isPersonal='true'
@@ -69,7 +69,7 @@ function Projects() {
             <b>Language Used: </b> Javascript, Bootstrap, Firebase<br /><br />
 
 
-          </div>} />
+          </div>} />*/}
       
 
       </div> 
