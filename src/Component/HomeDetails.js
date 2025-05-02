@@ -35,7 +35,7 @@ function HomeDetails() {
     return (
         <div style={{ display: 'flex', flexDirection: 'column' }} >
             {/* <div className='home-boy-img'></div> */}
-            <div className='f4 df text-shadow'>GANESH BABU J R</div>
+            <div className='f4 df text-shadow'>GANESH BABU JR</div>
             <div className='f1 df'>And I Am A PL/SQL Developer.</div>
             <CurrentCompany />
             <div className='frame f1' style={{ width: '100%', height: '10vh', marginTop: '5vh', padding: '10px' }}>
