@@ -15,15 +15,15 @@ function Education() {
                     contentStyle={{ color: '#000000',borderRadius: '1rem',
                     boxShadow: '0.3rem 0.3rem 0.6rem #c8d0e7, -0.2rem -0.2rem 0.5rem #ffffff', background:"#e6e6e6", padding: '1rem' }}
                     contentArrowStyle={{ borderRight: '7px solid  #e6e6e6' }}
-                    date="2010 - 2011"
+                    date="2008 - 2009"
                     iconStyle={{ background: '#e6e6e6', color: 'darkcyan', boxShadow: '0.3rem 0.3rem 0.6rem #c8d0e7, -0.2rem -0.2rem 0.5rem #ffffff' }}
                     icon={<FontAwesomeIcon icon={faGraduationCap}  />}
                 >
                     <h3 className="vertical-timeline-element-title">Secondary Education</h3>
-                    <h4 className="vertical-timeline-element-subtitle">Leeds's Asian Public School, Patna, Bihar</h4>
+                    <h4 className="vertical-timeline-element-subtitle">Islamiah Higher Secondary School, Vellore</h4>
                     <p>
-                       Board: CBSE<br/>
-                       CGPA: 9.2/10.00
+                       Board: SSLC, Tamil Nadu<br/>
+                       CGPA: 6.9/10.00
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
@@ -31,15 +31,15 @@ function Education() {
                     contentStyle={{ color: '#000000',borderRadius: '1rem',
                     boxShadow: '0.3rem 0.3rem 0.6rem #c8d0e7, -0.2rem -0.2rem 0.5rem #ffffff', background:"#e6e6e6", padding: '1rem' }}
                     contentArrowStyle={{ borderRight: '7px solid  #e6e6e6' }}
-                    date="2011 - 2013"
+                    date="2009 - 2011"
                     iconStyle={{ background: '#e6e6e6', color: 'darkcyan', boxShadow: '0.3rem 0.3rem 0.6rem #c8d0e7, -0.2rem -0.2rem 0.5rem #ffffff' }}
                     icon={<FontAwesomeIcon icon={faGraduationCap}  />}
                 >
                     <h3 className="vertical-timeline-element-title">Higher Secondary Education</h3>
-                    <h4 className="vertical-timeline-element-subtitle">K. S. S. College, Samastipur, Bihar</h4>
+                    <h4 className="vertical-timeline-element-subtitle">Islamiah Higher Secondary School, Vellore</h4>
                     <p>
-                       Board: BSEB, Bihar<br/>
-                       Percentage: 66.7%
+                       Board: HSC, Tamil Nadu<br/>
+                       Percentage: 55%
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
@@ -47,15 +47,15 @@ function Education() {
                     contentStyle={{ color: '#000000',borderRadius: '1rem',
                     boxShadow: '0.3rem 0.3rem 0.6rem #c8d0e7, -0.2rem -0.2rem 0.5rem #ffffff', background:"#e6e6e6", padding: '1.1rem' }}
                     contentArrowStyle={{ borderRight: '7px solid  #e6e6e6' }}
-                    date="2014 - 2018"
+                    date="2011 - 2015"
                     iconStyle={{ background: '#e6e6e6', color: 'darkcyan', boxShadow: '0.3rem 0.3rem 0.6rem #c8d0e7, -0.2rem -0.2rem 0.5rem #ffffff' }}
                     icon={<FontAwesomeIcon icon={faGraduationCap}  />}
                 >
                     <h3 className="vertical-timeline-element-title">Bachelor of Engineering (Computer Science &  Enginnering)</h3>
-                    <h4 className="vertical-timeline-element-subtitle">TGPCET, Nagpur, Maharashtra</h4>
+                    <h4 className="vertical-timeline-element-subtitle">Priyadarshini Engineering College, Vellore</h4>
                     <p>
-                    Board: RTMNU, Nagpur<br/>
-                       CGPA:7.31
+                    Board: Anna University, Chennai<br/>
+                       CGPA: 6.09
                     </p>
                 </VerticalTimelineElement>
             </VerticalTimeline>
