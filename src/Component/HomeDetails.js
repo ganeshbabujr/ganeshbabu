@@ -30,7 +30,7 @@ function HomeDetails() {
         return `${years} Years ${months} Months`;
     }
 
-    const experience = calculateExperience("2019-11-01");
+    const experience = calculateExperience("2020-10-07");
 
     return (
         <div style={{ display: 'flex', flexDirection: 'column' }} >
