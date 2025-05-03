@@ -57,11 +57,6 @@ function Experience() {
         </div>
         <div className='exp-bottom df'>
           <div className='exp-bottom-left df'>
-             <ProgressBar percent="90%" title='SQL' />
-            <ProgressBar percent="90%" title='PL/SQL' />
-            <ProgressBar percent="90%" title='Unix' />
-            <ProgressBar percent="80%" title='ETL' />
-            <ProgressBar percent="80%" title='Python' />
 
             <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix Shell Scripts', 'Python','HTML5/CSS']}/>
             <BodyCard header={'Tool'} skills={['SQL Developer', 'Toad','SQL Plus', 'SVN', 'Jira']}/>
