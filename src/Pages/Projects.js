@@ -10,7 +10,7 @@ function Projects() {
         <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>Projects</div>
 
         
-        <Card pno='03'
+        <Card pno='03'{<div>
             <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
             <b>Role: </b> PL/SQL Developer<br/>
             <b>Duration: </b> Jan 2021 to Present<br/>
