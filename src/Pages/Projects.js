@@ -13,8 +13,7 @@ function Projects() {
          <Card pno='01'
           preview="Project1."
           details={<div>
-            <br>
-            <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
+            <b>Project :</br></b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
             <b>Role: </b> PL/SQL Developer<br/>
             <b>Duration: </b> Jan 2021 to Present<br/>
             <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
