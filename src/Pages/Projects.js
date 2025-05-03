@@ -10,7 +10,7 @@ function Projects() {
         <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>Projects</div>
 
         
-         <Card pno='01'
+         <Card pno='03'
           preview="Project1."
           details={<div>
             <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
