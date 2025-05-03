@@ -25,7 +25,7 @@ const hideMenu =()=>{
             </div>
            <ProfileImage/>
             <div className='nav-name '>
-                <div className='f3 text-shadow'>Ganesh Babu J R</div>
+                <div className='f3 text-shadow'>Ganesh Babu</div>
                 <div className='f1'>PL/SQL Developer Developer</div>
             </div>
             <div className='nav-options-cont'>
