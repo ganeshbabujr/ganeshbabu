@@ -2,7 +2,7 @@ import React from 'react'
 
 function BodyCard({ header, skills, className }) {
     return (
-        <div className={`frame ${className}`} style={{ width: '20%', height: 'unset', flex:'1 1 300px' }}>
+        <div className={`frame ${className}`} style={{ width: '30%', height: 'unset', flex:'1 1 200px' }}>
             <div className='bodycard-content'>
                 <div className=' f2 bodycard-header'>
                     {header.toUpperCase()}
