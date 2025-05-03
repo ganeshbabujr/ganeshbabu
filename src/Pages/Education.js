@@ -8,7 +8,6 @@ import { faMessage, faLink, faBook, faSoccerBall, faGraduationCap } from '@forta
 function Education() {
     return (
         <div className='dp education'>
-  <div className='f4 df text-shadow'>EDUCATION</div>
             <VerticalTimeline lineColor='#d2e3d2'>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
