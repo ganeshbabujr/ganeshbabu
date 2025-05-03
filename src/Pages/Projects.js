@@ -13,37 +13,37 @@ function Projects() {
          <Card pno='01'
           preview="Project1."
           details={<div>
-            <b>Project :</br></b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
+            <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
             <b>Role: </b> PL/SQL Developer<br/>
             <b>Duration: </b> Jan 2021 to Present<br/>
             <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
             <br/>Details: </b>
-            The project aimed to streamline and optimize PNC Bank’s core financial workflows—Current Account (CA), Cash & Banking (CB), Accounts Payable (AP), and Accounts Receivable (AR)—by enhancing back-end database functionality.<br />
+            The project aimed to streamline and optimize PNC Bank’s core financial workflows enhancing back-end database functionality.<br />
 
           </div>} />
          <Card pno='02'
-          preview="This is Unilever Project, where they can optimize the future expenses in different ways."
+          preview="Project 2."
           details={<div>
             <b>Project :</b> Retail Management System - Woolworths<br />
             <b>Role: </b> PL/SQL Developer<br/>
             <b>Duration: </b> Nov 2020 to Dec 2021<br/>
             <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
             <br/>Details: </b>
-             As a PL/SQL Developer, developed and maintained a web application called "Stuffs" used by Woolworths Group Limited, a retail company based in Sydney, Australia. Managed inventory of all products, including purchase orders, sales orders, and product location tracking. 
+             As a PL/SQL Developer, developed and maintained a web application all products, including purchase orders, sales order. 
              <br />
 
 
           </div>} />
 
          <Card pno='01'
-          preview="This is Unilever Project, where they can optimize the future expenses in different ways."
+          preview="Project 3."
           details={<div>
             <b>Project :</b> B2B Wholesale Marketplace with Vendor Managed Inventory (VMI)<br />
             <b>Role: </b> Wordpress Engineer<br/>
             <b>Duration: </b> Jul 2019 to Sep 2020<br/>
             <b>Language used:</b> PHP, MYSQL, CMS<b>
             <br/>Details: </b>
-            Development of robust e-commerce platforms using WordPress and WooCommerce, covering product catalog management, payment gateway integration, shipping solutions, and order processing. integrating WordPress websites with Zoho CRM system, via APIs and custom plugins, to automate data synchronization and streamline workflows.
+            Development of robust e-commerce platforms using WordPress and WooCommerce, payment gateway integration and order processing. .
             <br />
 
 
