@@ -11,8 +11,6 @@ function Projects() {
 
         
         <Card pno='03'
-         /*{ preview="This is Unilever Project, where they can optimize the future expenses in different ways."
-          details={<div>*/}
             <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
             <b>Role: </b> PL/SQL Developer<br/>
             <b>Duration: </b> Jan 2021 to Present<br/>
