@@ -9,7 +9,7 @@ import BodyCard from '../Component/BodyCard'
 function Experience() {
   return (
     <div className='dp experience' style={{ flexDirection: 'column' }}>
-      <div className='f4 df text-shadow'>ABOUT ME</div>
+      <div className='f4 df text-shadow'>EXPERIENCE</div>
       <div className='mob-exp'>
         <div className='exp-top df'>
           <div className='left-exp' >
