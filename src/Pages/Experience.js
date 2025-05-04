@@ -61,7 +61,7 @@ function Experience() {
             <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix', 'Python']}/>
             <BodyCard header={'Client-Side Tool'} skills={['SQL Developer', 'PL/SQL Developer','Toad', 'SQL Plus']}/>
             <BodyCard header={'Database'} skills={['Oracle 12c','Oracle 11g','MySQL','PostgreSQL']}/>
-             <BodyCard header={'Tool'} skills={['Autosys', 'Control-M', 'SVN', 'Jira','Putty']}/>
+             <BodyCard header={'Tool'} skills={['Autosys', 'Control-M', 'SVN','Putty']}/>
             
           </div>
         </div>
