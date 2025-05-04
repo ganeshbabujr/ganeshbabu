@@ -51,7 +51,7 @@ function Education() {
                     iconStyle={{ background: '#e6e6e6', color: 'darkcyan', boxShadow: '0.3rem 0.3rem 0.6rem #c8d0e7, -0.2rem -0.2rem 0.5rem #ffffff' }}
                     icon={<FontAwesomeIcon icon={faGraduationCap}  />}
                 >
-                    <h3 className="vertical-timeline-element-title">Bachelor of Engineering (Computer Science &  Enginnering)</h3>
+                    <h3 className="vertical-timeline-element-title">B.E - Computer Science &  Enginnering</h3>
                     <h4 className="vertical-timeline-element-subtitle">Priyadarshini Engineering College, Vellore</h4>
                     <p>
                     Board: Anna University, Chennai<br/>
