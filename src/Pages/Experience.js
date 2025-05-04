@@ -58,10 +58,10 @@ function Experience() {
         <div className='exp-bottom df'>
           <div className='exp-bottom-left df'>
 
-            <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix Shell Scripts', 'Python','HTML5/CSS']}/>
-            <BodyCard header={'Tool'} skills={['SQL Developer', 'Toad','SQL Plus', 'SVN', 'Jira']}/>
-            <BodyCard header={'Database'} skills={['Oracle 11g','Oracle 12c']}/>
-            <BodyCard header={'Job Scheduling'} skills={['Autosys,', 'Control-M']}/>
+            <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix', 'Python']}/>
+            <BodyCard header={'Client-Side Tool'} skills={['SQL Developer', 'PL/SQL Developer','Toad', 'SQL Plus']}/>
+            <BodyCard header={'Database'} skills={['Oracle 12c','Oracle 11g','MySQL','PostgreSQL']}/>
+             <BodyCard header={'Tool'} skills={['Autosys', 'Control-M', 'SVN', 'Jira','Putty']}/>
             
           </div>
         </div>
