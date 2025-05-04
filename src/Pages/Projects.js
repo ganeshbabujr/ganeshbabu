@@ -7,7 +7,7 @@ function Projects() {
     <div className='dp project df'>
 
       <div className='ofc-project'>
-        <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>Projects</div>
+        <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>PROJECTS</div>
 
         
          <Card pno='03'
