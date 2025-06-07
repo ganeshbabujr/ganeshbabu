@@ -40,7 +40,7 @@ function Projects() {
           details={<div>
             <b>Project :</b> B2B Wholesale Marketplace with Vendor Managed Inventory (VMI)<br />
             <b>Role: </b> Wordpress Engineer<br/>
-            <b>Duration: </b> Jul 2019 to Sep 2020<br/>
+            <b>Duration: </b> Dec 2018 to Sep 2020<br/>
             <b>Language used:</b> PHP, MYSQL, CMS<b>
             <br/>Details: </b>
             Development of robust e-commerce platforms using WordPress and WooCommerce, payment gateway integration and order processing. .
