@@ -43,7 +43,7 @@ function Projects() {
             <b>Duration: </b> Jul 2019 to Sep 2020<br/>
             <b>Language used:</b> PHP, MYSQL, CMS<b>
             <br/>Details: </b>
-            Development of robust e-commerce platforms using WordPress and WooCommerce, covering product catalog management, payment gateway integration, shipping solutions, and order processing. integrating WordPress websites with Zoho CRM system, via APIs and custom plugins, to automate data synchronization and streamline workflows.
+            Development of robust e-commerce platforms using WordPress and WooCommerce, covering product catalog management, payment gateway integration, shipping solutions, and order processing.
             <br />
 
 
