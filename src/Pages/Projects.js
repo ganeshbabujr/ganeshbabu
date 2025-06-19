@@ -13,23 +13,23 @@ function Projects() {
         <Card pno='03'
           preview="This is Unilever Project, where they can optimize the future expenses in different ways."
           details={<div>
-            <b>Project :</b> Enterprise Banking Workflow Automation and Data Integration - PNC Bank<br />
+            <b>Project :</b> Retail Management System - Woolworths<br />
             <b>Role: </b> PL/SQL Developer<br/>
-            <b>Duration: </b> Jan 2021 to Present<br/>
+            <b>Duration: </b> Jan 2022 to Present<br/>
             <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
             <br/>Details: </b>
-            The project aimed to streamline and optimize PNC Bank’s core financial workflows—Current Account (CA), Cash & Banking (CB), Accounts Payable (AP), and Accounts Receivable (AR)—by enhancing back-end database functionality.<br />
+            The project aimed to Managed inventory of all products, including purchase orders, sales orders, and product location tracking.<br />
 
           </div>} />
          <Card pno='02'
           preview="This is Unilever Project, where they can optimize the future expenses in different ways."
           details={<div>
-            <b>Project :</b> Retail Management System - Woolworths<br />
+            <b>Project :</b> Financial Management System Upgrade - Westpac<br />
             <b>Role: </b> PL/SQL Developer<br/>
             <b>Duration: </b> Nov 2020 to Dec 2021<br/>
             <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
             <br/>Details: </b>
-             As a PL/SQL Developer, developed and maintained a web application called "Stuffs" used by Woolworths Group Limited, a retail company based in Sydney, Australia. Managed inventory of all products, including purchase orders, sales orders, and product location tracking. 
+             The project aimed to handled monitoring, troubleshooting, and resolving critical issues in the backend database systems to minimize downtime and ensure seamless business continuity.
              <br />
 
 
