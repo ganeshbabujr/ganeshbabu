@@ -18,7 +18,7 @@ function Projects() {
             <b>Duration: </b> Jan 2022 to Present<br/>
             <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
             <br/>Details: </b>
-            The project aimed to Managed inventory of all products, including purchase orders, sales orders, and product location tracking.<br />
+            The project aimed to Managed inventory of all products, including purchase orders, sales orders, and product location tracking. Contributed to improving Woolworths' business operations through effective data management.<br />
 
           </div>} />
          <Card pno='02'
