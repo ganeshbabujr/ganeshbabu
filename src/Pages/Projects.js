@@ -16,7 +16,7 @@ function Projects() {
             <b>Project :</b> Retail Management System - Woolworths<br />
             <b>Role: </b> PL/SQL Developer<br/>
             <b>Duration: </b> Jan 2022 to Present<br/>
-            <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
+            <b>Language used:</b> SQL, PL/SQL, Unix<b>
             <br/>Details: </b>
             The project aimed to Managed inventory of all products, including purchase orders, sales orders, and product location tracking. Contributed to improving Woolworths' business operations through effective data management.<br />
 
