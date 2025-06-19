@@ -27,7 +27,7 @@ function Projects() {
             <b>Project :</b> Financial Management System Upgrade - Westpac<br />
             <b>Role: </b> PL/SQL Developer<br/>
             <b>Duration: </b> Nov 2020 to Dec 2021<br/>
-            <b>Language used:</b> SQL, PL/SQL, Unix, ETL<b>
+            <b>Language used:</b> SQL, PL/SQL, Unix<b>
             <br/>Details: </b>
              The project aimed to handled monitoring, troubleshooting, and resolving critical issues in the backend database systems to minimize downtime and ensure seamless business continuity.
              <br />
