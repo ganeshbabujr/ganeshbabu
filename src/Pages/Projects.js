@@ -11,7 +11,7 @@ function Projects() {
 
         
         <Card pno='03'
-          preview="This is Unilever Project, where they can optimize the future expenses in different ways."
+          preview="This is Woolworths Project, Managed inventory of all products, including purchase orders, sales orders."
           details={<div>
             <b>Project :</b> Retail Management System - Woolworths<br />
             <b>Role: </b> PL/SQL Developer<br/>
@@ -22,10 +22,10 @@ function Projects() {
 
           </div>} />
          <Card pno='02'
-          preview="This is Unilever Project, where they can optimize the future expenses in different ways."
+          preview="This is MLB Project, where they can optimize the future expenses in different ways."
           details={<div>
-            <b>Project :</b> Financial Management System Upgrade - Westpac<br />
-            <b>Role: </b> PL/SQL Developer<br/>
+            <b>Project :</b> Online Shopping Application (MLB)<br />
+            <b>Role: </b> PLSQL Technical Consultant<br/>
             <b>Duration: </b> Nov 2020 to Dec 2021<br/>
             <b>Language used:</b> SQL, PL/SQL, Unix<b>
             <br/>Details: </b>
@@ -40,7 +40,7 @@ function Projects() {
           details={<div>
             <b>Project :</b> B2B Wholesale Marketplace with Vendor Managed Inventory (VMI)<br />
             <b>Role: </b> Wordpress Engineer<br/>
-            <b>Duration: </b> Jul 2019 to Sep 2020<br/>
+            <b>Duration: </b> Dec 2018 to Sep 2020<br/>
             <b>Language used:</b> PHP, MYSQL, CMS<b>
             <br/>Details: </b>
             Development of robust e-commerce platforms using WordPress and WooCommerce, covering product catalog management, payment gateway integration, shipping solutions, and order processing.
