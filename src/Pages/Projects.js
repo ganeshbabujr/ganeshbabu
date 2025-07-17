@@ -9,7 +9,7 @@ function Projects() {
       <div className='ofc-project'>
         <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>Projects</div>
 
-        
+{/*        
         <Card pno='03'
           preview="This is Woolworths Project, Managed inventory of all products, including purchase orders, sales orders."
           details={<div>
