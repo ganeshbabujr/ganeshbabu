@@ -39,7 +39,9 @@ function Projects() {
       </div>
 
 
-
+  <div className='exp-bottom df'>
+          <div className='exp-bottom-left df'>
+               
             <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix Shell Scripts', 'Python','HTML5/CSS']}/>
             <BodyCard header={'Tool'} skills={['SQL Developer', 'Toad','SQL Plus', 'SVN', 'Jira']}/>
             <BodyCard header={'Database'} skills={['Oracle 11g','Oracle 12c']}/>
