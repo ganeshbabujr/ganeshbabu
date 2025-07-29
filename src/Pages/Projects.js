@@ -48,8 +48,8 @@ function Projects() {
             <BodyCard header={'Job Scheduling'} skills={['Autosys,', 'Control-M']}/>
 
 
-
-
+               </div>
+               </div>
 
 {/*  <div className='per-project'>
         <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>Personal Projects</div>
