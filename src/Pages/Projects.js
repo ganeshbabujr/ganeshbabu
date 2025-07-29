@@ -1,11 +1,6 @@
 import React from 'react'
 import Card from '../Component/Card'
 import '../Styles/Projects.css'
-import ProgressBar from '../Component/ProgressBar'
-import '../Styles/Experience.css'
-import CurrentCompany from '../Component/CurrentCompany'
-import { currentCompanyName, currentRole, currentLocation, oldCompanyHistory } from '../Shared/Constant'
-import BodyCard from '../Component/BodyCard'
 function Projects() {
   return (
     <div className='dp project df'>
