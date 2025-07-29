@@ -6,7 +6,7 @@ function CurrentCompany() {
     <div className='frame f1' style={{ width: '100%', height: '10vh', marginTop: '5vh', padding:'10px' }}>
       Current Company: {currentCompanyName}<br />
       Designation: {currentRole} <br />
-      Duration : October 2020 to Present
+      Duration : August 2025 to Present
     </div>
   )
 }
