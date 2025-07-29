@@ -1,7 +1,11 @@
 import React from 'react'
 import Card from '../Component/Card'
 import '../Styles/Projects.css'
-
+import ProgressBar from '../Component/ProgressBar'
+import '../Styles/Experience.css'
+import CurrentCompany from '../Component/CurrentCompany'
+import { currentCompanyName, currentRole, currentLocation, oldCompanyHistory } from '../Shared/Constant'
+import BodyCard from '../Component/BodyCard'
 function Projects() {
   return (
     <div className='dp project df'>
@@ -39,7 +43,7 @@ function Projects() {
       </div>
 
 
-  <div className='exp-bottom df'>
+        <div className='exp-bottom df'>
           <div className='exp-bottom-left df'>
                
             <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix Shell Scripts', 'Python','HTML5/CSS']}/>
@@ -50,6 +54,7 @@ function Projects() {
 
                </div>
                </div>
+
 
 {/*  <div className='per-project'>
         <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>Personal Projects</div>
