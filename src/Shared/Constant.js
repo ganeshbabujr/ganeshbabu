@@ -21,6 +21,7 @@ export const oldCompanyHistory = [
         name: 'Swatantra Systems Pvt Ltd',
         designation: 'PL/SQL Developer',
         startDate: 'October 2020',
+        endDate: 'June 2025',
         location: 'Hyderabad',
         isCurrentCompany : false,
         id : 2
