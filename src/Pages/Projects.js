@@ -36,15 +36,18 @@ function Projects() {
           </div>} />
 
   
-
-
-
-
-
-
-
-
       </div>
+
+
+
+            <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix Shell Scripts', 'Python','HTML5/CSS']}/>
+            <BodyCard header={'Tool'} skills={['SQL Developer', 'Toad','SQL Plus', 'SVN', 'Jira']}/>
+            <BodyCard header={'Database'} skills={['Oracle 11g','Oracle 12c']}/>
+            <BodyCard header={'Job Scheduling'} skills={['Autosys,', 'Control-M']}/>
+
+
+
+
 
 {/*  <div className='per-project'>
         <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>Personal Projects</div>
