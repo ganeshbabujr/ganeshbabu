@@ -10,22 +10,22 @@ function Projects() {
         <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>Projects</div>
 
         
-        <Card pno='03'
+        <Card pno='02'
           preview="This is Woolworths Project, Managed inventory of all products, including purchase orders, sales orders."
           details={<div>
-            <b>Project :</b> Retail Management System - Woolworths<br />
+            <b>Project :</b> Retail Management System for a Supermarket Chain - Woolworths<br />
             <b>Role: </b> PL/SQL Developer<br/>
-            <b>Duration: </b> Jan 2022 to Present<br/>
+            <b>Duration: </b> Jan 2022 to Mar 2025<br/>
             <b>Language used:</b> SQL, PL/SQL, Unix<b>
             <br/>Details: </b>
             The project aimed to Managed inventory of all products, including purchase orders, sales orders, and product location tracking. Contributed to improving Woolworths' business operations through effective data management.<br />
 
           </div>} />
-         <Card pno='02'
+         <Card pno='01'
           preview="This is MLB Project, where they can optimize the future expenses in different ways."
           details={<div>
-            <b>Project :</b> Online Shopping Application (MLB)<br />
-            <b>Role: </b> PLSQL Technical Consultant<br/>
+            <b>Project :</b> Financial Management System Upgrade – Westpac<br />
+            <b>Role: </b> PL/SQL Developer | Support L1<br/>
             <b>Duration: </b> Nov 2020 to Dec 2021<br/>
             <b>Language used:</b> SQL, PL/SQL, Unix<b>
             <br/>Details: </b>
@@ -35,19 +35,7 @@ function Projects() {
 
           </div>} />
 
-         <Card pno='01'
-          preview="This is Unilever Project, where they can optimize the future expenses in different ways."
-          details={<div>
-            <b>Project :</b> B2B Wholesale Marketplace with Vendor Managed Inventory (VMI)<br />
-            <b>Role: </b> Wordpress Engineer<br/>
-            <b>Duration: </b> Dec 2018 to Sep 2020<br/>
-            <b>Language used:</b> PHP, MYSQL, CMS<b>
-            <br/>Details: </b>
-            Development of robust e-commerce platforms using WordPress and WooCommerce, covering product catalog management, payment gateway integration, shipping solutions, and order processing.
-            <br />
-
-
-          </div>} />
+  
 
 
 
