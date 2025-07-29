@@ -39,10 +39,25 @@ function Projects() {
   
       </div>
 
-          <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix Shell Scripts', 'Python','HTML5/CSS']}/>
+            <div className='exp-bottom df'>
+          <div className='exp-bottom-left df'>
+            {/* <ProgressBar percent="90%" title='React JS' />
+            <ProgressBar percent="90%" title='Javascript' />
+            <ProgressBar percent="90%" title='HTML' />
+            <ProgressBar percent="80%" title='CSS' />
+            <ProgressBar percent="80%" title='.Net Core' />
+            <ProgressBar percent="80%" title='MS SQL' /> */}
+
+            <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix Shell Scripts', 'Python','HTML5/CSS']}/>
             <BodyCard header={'Tool'} skills={['SQL Developer', 'Toad','SQL Plus', 'SVN', 'Jira']}/>
             <BodyCard header={'Database'} skills={['Oracle 11g','Oracle 12c']}/>
             <BodyCard header={'Job Scheduling'} skills={['Autosys,', 'Control-M']}/>
+            
+
+
+
+          </div>
+        </div>
 
 
 
