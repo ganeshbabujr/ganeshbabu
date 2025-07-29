@@ -1,11 +1,11 @@
-export const currentCompanyName = 'Swatantra Systems Pvt Ltd';
-export const currentRole = 'PL/SQL Developer';
+export const currentCompanyName = 'Oracle Financial Services Software';
+export const currentRole = 'Senior Consultant';
 export const currentExperience = '4.8 Years';
 export const currentMobileNo = '+918667799658';
 export const currentEmail = 'jr.ganesh6@gmail.com';
 export const currentLinkedinUrl = 'https://www.linkedin.com/in/ganeshbabujr/';
 export const currentGithubUrl = 'https://github.com/ganeshbabujr';
-export const currentzcompanyStartDate = 'October 2020';
+export const currentzcompanyStartDate = 'August 2025';
 export const currentLocation = 'Chennai';
 export const oldCompanyHistory = [
     {
