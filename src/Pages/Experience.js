@@ -9,7 +9,7 @@ import BodyCard from '../Component/BodyCard'
 function Experience() {
   return (
     <div className='dp experience' style={{ flexDirection: 'column' }}>
-      <div className='f4 df text-shadow'>EXPERIENCE</div>
+      <div className='f4 df text-shadow'>ABOUT ME</div>
       <div className='mob-exp'>
         <div className='exp-top df'>
           <div className='left-exp' >
@@ -32,6 +32,18 @@ function Experience() {
                 Location : {oldCompanyHistory[1].location}
               </div>
             </div>
+            <div className='frame f1 df c-details' style={{ marginTop: '3vh' }}>
+              <div className='no-block'>03</div>
+              <div className='ex-c-detils'>
+                Org Name: {oldCompanyHistory[1].name}<br />
+                Designation: {oldCompanyHistory[1].designation} <br />
+                Start Date : {oldCompanyHistory[1].startDate} <br />
+                Location : {oldCompanyHistory[1].location}
+              </div>
+            </div>
+
+
+
 
             <div className='small-blocks'>
               <div className='frame neu-btn-2 df small-block-child'>
@@ -57,12 +69,21 @@ function Experience() {
         </div>
         <div className='exp-bottom df'>
           <div className='exp-bottom-left df'>
+            {/* <ProgressBar percent="90%" title='React JS' />
+            <ProgressBar percent="90%" title='Javascript' />
+            <ProgressBar percent="90%" title='HTML' />
+            <ProgressBar percent="80%" title='CSS' />
+            <ProgressBar percent="80%" title='.Net Core' />
+            <ProgressBar percent="80%" title='MS SQL' /> */}
 
-            <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix', 'Python']}/>
-            <BodyCard header={'Client-Side Tool'} skills={['SQL Developer', 'PL/SQL Developer','Toad', 'SQL Plus']}/>
-            <BodyCard header={'Database'} skills={['Oracle 12c','Oracle 11g','MySQL','PostgreSQL']}/>
-             <BodyCard header={'Tool'} skills={['Autosys', 'Control-M', 'SVN','Putty']}/>
+            <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix Shell Scripts', 'Python','HTML5/CSS']}/>
+            <BodyCard header={'Tool'} skills={['SQL Developer', 'Toad','SQL Plus', 'SVN', 'Jira']}/>
+            <BodyCard header={'Database'} skills={['Oracle 11g','Oracle 12c']}/>
+            <BodyCard header={'Job Scheduling'} skills={['Autosys,', 'Control-M']}/>
             
+
+
+
           </div>
         </div>
       </div>
