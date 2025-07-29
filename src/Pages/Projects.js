@@ -36,10 +36,7 @@ function Projects() {
              The project aimed to handled monitoring, troubleshooting, and resolving critical issues in the backend database systems to minimize downtime and ensure seamless business continuity.
              <br />
 
-          <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix Shell Scripts', 'Python','HTML5/CSS']}/>
-            <BodyCard header={'Tool'} skills={['SQL Developer', 'Toad','SQL Plus', 'SVN', 'Jira']}/>
-            <BodyCard header={'Database'} skills={['Oracle 11g','Oracle 12c']}/>
-            <BodyCard header={'Job Scheduling'} skills={['Autosys,', 'Control-M']}/>
+
                
           </div>} />
   
@@ -47,7 +44,10 @@ function Projects() {
   
       </div>
 
-
+          <BodyCard header={'Languages'} skills={['SQL', 'PL/SQL', 'Unix Shell Scripts', 'Python','HTML5/CSS']}/>
+            <BodyCard header={'Tool'} skills={['SQL Developer', 'Toad','SQL Plus', 'SVN', 'Jira']}/>
+            <BodyCard header={'Database'} skills={['Oracle 11g','Oracle 12c']}/>
+            <BodyCard header={'Job Scheduling'} skills={['Autosys,', 'Control-M']}/>
 
 
 
