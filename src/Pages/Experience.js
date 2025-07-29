@@ -13,6 +13,27 @@ function Experience() {
       <div className='mob-exp'>
         <div className='exp-top df'>
           <div className='left-exp' >
+
+
+            <div className='frame f1 df c-details' style={{ marginTop: '3vh' }}>
+              <div className='no-block'>03</div>
+              <div className='ex-c-detils'>
+                Org Name: {oldCompanyHistory[2].name}<br />
+                Designation: {oldCompanyHistory[2].designation} <br />
+                Start Date : {oldCompanyHistory[2].startDate} <br />
+                Location : {oldCompanyHistory[2].location}
+              </div>
+            </div>
+             <div className='frame f1 df c-details' style={{ marginTop: '3vh' }}>
+              <div className='no-block'>02</div>
+              <div className='ex-c-detils'>
+                Org Name: {oldCompanyHistory[1].name}<br />
+                Designation: {oldCompanyHistory[1].designation} <br />
+                Start Date : {oldCompanyHistory[1].startDate} <br />
+                Last Date : {oldCompanyHistory[1].endDate}<br />
+                Location : {oldCompanyHistory[1].location}
+              </div>
+            </div>
             <div className='frame f1 df c-details' style={{ marginTop: '5vh' }}>
               <div className='no-block'>01</div>
               <div className='ex-c-detils'>
@@ -23,27 +44,6 @@ function Experience() {
                 Location : {oldCompanyHistory[0].location}
               </div>
             </div>
-            <div className='frame f1 df c-details' style={{ marginTop: '3vh' }}>
-              <div className='no-block'>02</div>
-              <div className='ex-c-detils'>
-                Org Name: {oldCompanyHistory[1].name}<br />
-                Designation: {oldCompanyHistory[1].designation} <br />
-                Start Date : {oldCompanyHistory[1].startDate} <br />
-                Last Date : {oldCompanyHistory[1].endDate}<br />
-                Location : {oldCompanyHistory[1].location}
-              </div>
-            </div>
-            <div className='frame f1 df c-details' style={{ marginTop: '3vh' }}>
-              <div className='no-block'>03</div>
-              <div className='ex-c-detils'>
-                Org Name: {oldCompanyHistory[2].name}<br />
-                Designation: {oldCompanyHistory[2].designation} <br />
-                Start Date : {oldCompanyHistory[2].startDate} <br />
-                Location : {oldCompanyHistory[2].location}
-              </div>
-            </div>
-
-
 
 
             <div className='small-blocks'>
