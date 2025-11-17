@@ -8,32 +8,35 @@ function Projects() {
       <div className='ofc-project'>
         <div className='f3 text-shadow dfc' style={{ margin: '2vh 0 2vh 0' }}>Projects</div>
 
-        
+
         <Card pno='02'
+          preview="Cash Next Gen is a core investment banking platform used for managing cash movements."
+          details={<div>
+            <b>Project :</b> Cash Next Gen – State Street Corporation<br />
+            <b>Role: </b> Senior Consultant<br/>
+            <b>Duration: </b> Aug 2025 to Oct 2025<br/>
+            <b>Language used:</b> SQL, PL/SQL, Unix<b>
+            <br/>Details: </b>
+            Cash Next Gen is a core investment banking platform used for managing cash movements, settlements, fund transfers, position updates, and cash reconciliation across multiple systems.<br />
+
+          </div>} />
+
+
+
+
+  
+        <Card pno='01'
           preview="This is Woolworths Project, Managed inventory of all products, including purchase orders, sales orders."
           details={<div>
             <b>Project :</b> Retail Management System for a Supermarket Chain - Woolworths<br />
             <b>Role: </b> PL/SQL Developer<br/>
-            <b>Duration: </b> Jan 2022 to Mar 2025<br/>
+            <b>Duration: </b> Jan 2022 to Jun 2025<br/>
             <b>Language used:</b> SQL, PL/SQL, Unix<b>
             <br/>Details: </b>
             The project aimed to Managed inventory of all products, including purchase orders, sales orders, and product location tracking. Contributed to improving Woolworths' business operations through effective data management.<br />
 
           </div>} />
-         <Card pno='01'
-          preview="This is MLB Project, where they can optimize the future expenses in different ways."
-          details={<div>
-            <b>Project :</b> Financial Management System Upgrade – Westpac<br />
-            <b>Role: </b> PL/SQL Developer | Support L1<br/>
-            <b>Duration: </b> Nov 2020 to Dec 2021<br/>
-            <b>Language used:</b> SQL, PL/SQL, Unix<b>
-            <br/>Details: </b>
-             The project aimed to handled monitoring, troubleshooting, and resolving critical issues in the backend database systems to minimize downtime and ensure seamless business continuity.
-             <br />
 
-
-               
-          </div>} />
   
             
   
