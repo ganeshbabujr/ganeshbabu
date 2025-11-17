@@ -48,7 +48,7 @@ function Experience() {
 
             <div className='small-blocks'>
               <div className='frame neu-btn-2 df small-block-child'>
-                <div className='f3 text-shadow' style={{ height: '40%' }}>4 +</div>
+                <div className='f3 text-shadow' style={{ height: '40%' }}>5 +</div>
                 <div className='f1 df center-container'><span>Years of experience</span></div>
 
 
